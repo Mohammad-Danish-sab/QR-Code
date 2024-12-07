@@ -1,0 +1,38 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 7rem;
+}
+.Container {
+    width: 200px;
+    height:50 px;
+    background-color: white;
+    align-items: center;
+    padding: 25px;
+    margin: 10px;
+    border-radius: 10px;
+    
+}
+img {
+    width: 200px;
+    height:200px;
+    align-items: center;
+    border-radius: 10px;
+    
+
+}
+h1 {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    padding: 1px;
+    margin-bottom: 2px;
+}
+p {
+    font-size: 12px;
+    color:black;
+    background-color: white;
+    
+}
